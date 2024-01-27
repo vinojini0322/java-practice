@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed639e07-39d2-4c71-bf14-f055cb2a9d42" name="Changes" comment="Java 8 exercise">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ed639e07-39d2-4c71-bf14-f055cb2a9d42" name="Changes" comment="Merge two unsorted arrays to a sorted array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706327712343</updated>
-      <workItem from="1706327714412" duration="6712000" />
+      <workItem from="1706327714412" duration="7691000" />
     </task>
     <task id="LOCAL-00001" summary="Separate add and even numbers in a list - Java">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706346882209</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge two unsorted arrays to a sorted array">
+      <option name="closed" value="true" />
+      <created>1706347767213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706347767213</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +141,7 @@
     <MESSAGE value="Sort numbers in ascending and descending orders" />
     <MESSAGE value="Fix issues" />
     <MESSAGE value="Java 8 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java 8 exercise" />
+    <MESSAGE value="Merge two unsorted arrays to a sorted array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge two unsorted arrays to a sorted array" />
   </component>
 </project>

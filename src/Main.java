@@ -43,5 +43,13 @@ public class Main {
         numbers.stream().sorted(Comparator.reverseOrder()).limit(3).forEach(a -> System.out.print(a + " "));
         System.out.println("\nMinimum");
         numbers.stream().sorted().limit(3).forEach(a -> System.out.print(a + " "));
+        int sum = numbers.stream()
+                .mapToInt(Integer::intValue) // Convert the stream to IntStream
+                .sum();
+        System.out.println("Sum " + sum);
+        System.out.println("Find common numbers between two lists");
+        System.out.println("List 1: " + numbers);
+        System.out.println("List 2: " + numbersDuplicate);
+        numbers.stream().filter(numbersDuplicate::contains).forEach(a -> System.out.print(a + " , "));
     }
 }
